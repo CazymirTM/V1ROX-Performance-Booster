@@ -3,6 +3,8 @@ A python performance booster with many features that improve the overall perform
 
 **(Please read the [SAFETY REPORT](SAFETY_REPORT.md) to know what features you can use in some online games that have anti-cheats)**
 
+[![Download Latest Release](https://img.shields.io/badge/Download-Latest_Release-blue?style=for-the-badge&logo=github)](https://github.com/CazymirTM/V1ROX-Performance-Booster/releases/latest)
+
 ## ⚙️Core Features:
 - Dashboard (Real-Time Telemetry):
             - Hardware Monitoring: Tracks live CPU, RAM, and Disk usage percentages.
