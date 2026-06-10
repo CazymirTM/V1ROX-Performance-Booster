@@ -23,3 +23,8 @@ A python performance booster with many features that improve the overall perform
             - Prioritize Low Latency Disk IO: This basically changes how windows schedules disk operations, faster loading, less micro-stutters, more stable frame pacing (mostly in open world games)
             - Pause Indexing during load: Usefull more for HDD users and low end ssds (barely noticeable on NVMe M.2 ssds), what it does is temporarily stops or reduces indexing activity while the system is under load (Windows Search Indexing constantly scans for files, updates search database, tracks file changes, so this option basically pause and minimize this so the games load faster)
             - Gaming Network Traffic QoS Prioritization & Fast DNS: sets dns to Cloudfare DNS (which is faster), making some of your packets more stable (even ping/ms).
+
+![Dashboard UI](1.png)
+![Game Boost](2.png)
+![Memory & CPU](3.png)
+![System & Network](4.png)
