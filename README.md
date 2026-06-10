@@ -1,7 +1,7 @@
 # V1ROX Performance Booster
 A python performance booster with many features that improve the overall performance of user's pc.
 
-**(Please read SAFETY REPORT to know what features you can use in some online games that have anti-cheats)**
+**(Please read the [SAFETY REPORT](SAFETY_REPORT.md) to know what features you can use in some online games that have anti-cheats)**
 
 ## ⚙️Core Features:
 - Dashboard (Real-Time Telemetry):
