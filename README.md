@@ -6,14 +6,17 @@ A python performance booster with many features that improve the overall perform
 ## ⚙️Core Features:
 - Dashboard (Real-Time Telemetry):
             - Hardware Monitoring: Tracks live CPU, RAM, and Disk usage percentages.
+
   
 - Game Boost:
             - Forces the game to use HIGH PRIORITY CLASS so that windows allows the game to be first to process and other background apps to be the last (meaning windows pushing more resources to that game)
             - On modern CPUs with more than 8 cores, it restricts the game's affinity to the primary performance cores (Cores 0-7), preventing game threads from being dumped into slower efficiency cores (does not work in some games and you may get worse performance)
             - Ultra Performance Power Plan (one click button): enables and activates a custom power plan better than the default windows high performance plan.
+
   
 - Memory & CPU:
             - Cached memory purge: does exactly what it says, it purges the memory's cache, exactly what RAMMap does, if you played a long time you will probally (or even when turning on your PC) have more than 5GB cached stored in the memory cache, and your pc starts to be laggy, so this comes in usefull
+
   
   - System & Network:
             - Background "Noise Killer": freezes useless apps (useless means when you play a game you don't need cloud sync, updates to interupt you), it freezes them and keeps them paused as long as you have the game up and the tool as well (usefull for singleplayer games mostly, do not use this option in online games)
