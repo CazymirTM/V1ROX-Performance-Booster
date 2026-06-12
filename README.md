@@ -31,3 +31,9 @@ A python performance booster with many features that improve the overall perform
 ![Game Boost](2.png)
 ![Memory & CPU](3.png)
 ![System & Network](4.png)
+
+
+### 👨‍💻 Credits
+* **Developer:** [CeZeY (CazymirTM)](https://github.com/CazymirTM)
+* **UI Designer:** AlexXZrZ
+* **Memory & CPU code by:** AlexXZrZ
