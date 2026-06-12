@@ -16,6 +16,8 @@ A python performance booster with many features that improve the overall perform
             - On modern CPUs with more than 8 cores, it restricts the game's affinity to the primary performance cores (Cores 0-7), preventing game threads from being dumped into slower efficiency cores (does not work in some games and you may get worse performance)
             - Ultra Performance Power Plan (one click button): enables and activates a custom power plan better than the default windows high performance plan.
 
+- Auto-Boost Profiles (added in 1.0.2): presets for Gaming, Video Editing, Streaming, Coding that applies options dedicated for the specific preset.
+
   
 - Memory & CPU:
             - Cached memory purge: does exactly what it says, it purges the memory's cache, exactly what RAMMap does, if you played a long time you will probally (or even when turning on your PC) have more than 5GB cached stored in the memory cache, and your pc starts to be laggy, so this comes in usefull
