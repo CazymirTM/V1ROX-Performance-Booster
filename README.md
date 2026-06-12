@@ -8,6 +8,7 @@ A python performance booster with many features that improve the overall perform
 ## ⚙️Core Features:
 - Dashboard (Real-Time Telemetry):
             - Hardware Monitoring: Tracks live CPU, RAM, and Disk usage percentages.
+            - System Tray: when you close the tool (by pressing X) it hides on system tray (in the up arrow alongiside your internet and audio icons), if you want to close it completely just right click it and click the quit completely option
 
   
 - Game Boost:
